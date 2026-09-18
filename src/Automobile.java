@@ -2,6 +2,7 @@ public class Automobile {
     private String marca;
     private String modello;
     private int anno;
+    private String targa;
 
     public Automobile(String marca, String modello, int anno) {
         this.marca = marca;
